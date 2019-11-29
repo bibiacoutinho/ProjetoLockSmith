@@ -1,4 +1,4 @@
-#ProjetoLockSmith
+ProjetoLockSmith
 Projeto de uma trava inteligente onde a identificação de cartões via QRCode e o gerenciamento de acessos, são realizados em aplicativo Android.
 
 #INSTALANDO O APLICATIVO
